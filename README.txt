@@ -1,0 +1,1 @@
+wire frame @ https://www.figma.com/file/zja87PDaDOF3l66bklWCWn/Clase-1-wireframe?type=design&node-id=0%3A1&mode=design&t=mY4V7oRxyReGNgZo-1
